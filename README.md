@@ -1,7 +1,7 @@
 ## Hi, 
 This is Amulya Bommaraboina! 👋
 
-![image](https://github.com/user-attachments/assets/c2383020-0574-493d-8460-498d6ec6b992)
+![image](https://i.postimg.cc/y6PxhwMx/amulya.png)
 
 
 
