@@ -1,5 +1,5 @@
 ## Hi, 
-This Amulya Bommaraboina! 👋
+This is Amulya Bommaraboina! 👋
 
 ![image](https://github.com/user-attachments/assets/c2383020-0574-493d-8460-498d6ec6b992)
 
@@ -7,7 +7,7 @@ This Amulya Bommaraboina! 👋
 
 "A former medical coder is later an AI engineer"
 
-" Iam a student of masterschool, As a software engineering student, I'm passionate about solving complex problems and continuously improving my coding skills. I focus on mastering technologies like Python, web development (HTML, CSS, JavaScript), and software design principles. I thrive in collaborative environments and am always eager to learn new tools and techniques to create efficient, scalable solutions."
+" I am a student of masterschool, as a software engineering student, I'm passionate about solving complex problems and continuously improving my coding skills. I focus on mastering technologies like Python, web development (HTML, CSS, JavaScript), and software design principles. I thrive in collaborative environments and am always eager to learn new tools and techniques to create efficient, scalable solutions."
 
 
 
