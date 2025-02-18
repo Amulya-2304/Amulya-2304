@@ -27,7 +27,7 @@ This is Amulya Bommaraboina! 👋
 
 Some of my Projects:
 - [Project One](https://github.com/Amulya-2304/Word_chain_game)
-- [Project Two](https://github.com/Amulya-2304/recipes.md)
+- [Project Two](https://github.com/Amulya-2304/recipes)
 
 
 - 📫 How to reach me: ...
