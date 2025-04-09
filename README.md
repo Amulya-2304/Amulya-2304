@@ -24,10 +24,17 @@ This is Amulya Bommaraboina! 👋
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=flat&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005A9C?style=flat&logo=internet-explorer&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-6DB33F?style=flat&logo=server&logoColor=white)
+
 
 Some of my Projects:
 - [Project One](https://github.com/Amulya-2304/Word_chain_game)
 - [Project Two](https://github.com/Amulya-2304/recipes)
+- [Project Three](https://github.com/Amulya-2304/My_portfolio.git)
 
 
 - 📫 How to reach me: ...
